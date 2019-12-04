@@ -71,4 +71,13 @@
     35. How often should I commit to github?
     Very often.
     36. What is the command we would use to push our repo up to github? 
+    git push -u origin branch-name
     37. Walk me through Lambda's git flow. 
+    First you want to fork the repo.
+    Then add any colaborators like your TL 
+    Then clone and copy the url 
+    Go to desired directory in terminal with cd command
+    use the git clone <url> command to add clone to the directory
+    Go to the clone repo and then create your own branch 
+    while working you want to add, commit and when done push
+    Then finally do a pull request
